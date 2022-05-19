@@ -39,7 +39,7 @@ Product functional tests are maintained as an open source project. Please refer 
 
 While product functional testing is defined by Adobe, you can write your own quality testing for your own application. This will be executed as custom functional testing as part of the production pipeline to ensure the quality of your application.
 
-Custom functional testing is executed both for custom code deployments as well as push upgrades, which makes is especially important to write good functional tests which prevent AEM code changes from breaking your application code. The custom functional testing step is always present and cannot be skipped.
+Custom functional testing is executed both for custom code deployments as well as push upgrades, which makes it especially important to write good functional tests which prevent AEM code changes from breaking your application code. The custom functional testing step is always present and cannot be skipped.
 
 ### Writing Custom Functional Tests {#writing-functional-tests}
 
